@@ -1,0 +1,14 @@
+/Users/gorkemdikbakan/RiderProjects/HesapMakinesiBasit/HesapMakinesiBasit/bin/Debug/net8.0/HesapMakinesiBasit
+/Users/gorkemdikbakan/RiderProjects/HesapMakinesiBasit/HesapMakinesiBasit/bin/Debug/net8.0/HesapMakinesiBasit.deps.json
+/Users/gorkemdikbakan/RiderProjects/HesapMakinesiBasit/HesapMakinesiBasit/bin/Debug/net8.0/HesapMakinesiBasit.runtimeconfig.json
+/Users/gorkemdikbakan/RiderProjects/HesapMakinesiBasit/HesapMakinesiBasit/bin/Debug/net8.0/HesapMakinesiBasit.dll
+/Users/gorkemdikbakan/RiderProjects/HesapMakinesiBasit/HesapMakinesiBasit/bin/Debug/net8.0/HesapMakinesiBasit.pdb
+/Users/gorkemdikbakan/RiderProjects/HesapMakinesiBasit/HesapMakinesiBasit/obj/Debug/net8.0/HesapMakinesiBasit.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gorkemdikbakan/RiderProjects/HesapMakinesiBasit/HesapMakinesiBasit/obj/Debug/net8.0/HesapMakinesiBasit.AssemblyInfoInputs.cache
+/Users/gorkemdikbakan/RiderProjects/HesapMakinesiBasit/HesapMakinesiBasit/obj/Debug/net8.0/HesapMakinesiBasit.AssemblyInfo.cs
+/Users/gorkemdikbakan/RiderProjects/HesapMakinesiBasit/HesapMakinesiBasit/obj/Debug/net8.0/HesapMakinesiBasit.csproj.CoreCompileInputs.cache
+/Users/gorkemdikbakan/RiderProjects/HesapMakinesiBasit/HesapMakinesiBasit/obj/Debug/net8.0/HesapMakinesiBasit.dll
+/Users/gorkemdikbakan/RiderProjects/HesapMakinesiBasit/HesapMakinesiBasit/obj/Debug/net8.0/refint/HesapMakinesiBasit.dll
+/Users/gorkemdikbakan/RiderProjects/HesapMakinesiBasit/HesapMakinesiBasit/obj/Debug/net8.0/HesapMakinesiBasit.pdb
+/Users/gorkemdikbakan/RiderProjects/HesapMakinesiBasit/HesapMakinesiBasit/obj/Debug/net8.0/HesapMakinesiBasit.genruntimeconfig.cache
+/Users/gorkemdikbakan/RiderProjects/HesapMakinesiBasit/HesapMakinesiBasit/obj/Debug/net8.0/ref/HesapMakinesiBasit.dll
