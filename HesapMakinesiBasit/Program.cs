@@ -19,6 +19,6 @@ switch (islem)
         Console.WriteLine(sayi1 / sayi2);
         break;
     default:
-        Console.WriteLine("Yanlış Değer Giriniz");
+        Console.WriteLine("Yanlış Değer Girdiniz !");
         break;
 }
